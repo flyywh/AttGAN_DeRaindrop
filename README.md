@@ -22,20 +22,20 @@ year = {2018}
 }
 ```
 
-## Prerequisites:
+## Prerequisites
 
 1. Linux
 2. Python 2.7
 3. NVIDIA GPU + CUDA CuDNN (CUDA 8.0/9.0)
 
-## Installation:
+## Installation
 
 1. Clone this repo
 2. Install PyTorch and dependencies from http://pytorch.org 
 
 （**Note**: the code is suitable for PyTorch 0.4.1）
 
-## Usage:
+## Usage
 
 Please refer to train.sh to see the training example.
 
