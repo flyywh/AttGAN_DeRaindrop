@@ -1,4 +1,4 @@
-# AttGAN DeRaindrop
+# AttGAN DeRaindrop (Training Code)
 
 ## Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'2018)
 
@@ -35,7 +35,7 @@ year = {2018}
 
 （**Note**: the code is suitable for PyTorch 0.4.1）
 
-## Usage
+## Usage of Training Code
 
 Please refer to train.sh to see the training example.
 
