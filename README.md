@@ -1,11 +1,10 @@
-# Attentive_GAN_Raindrop
-
+# AttGAN DeRaindrop
 
 ## Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'2018)
 
 [Rui Qian](https://rui1996.github.io), [Robby T.Tan](https://tanrobby.github.io), [Wenhan Yang](http://www.icst.pku.edu.cn/struct/people/Wenhan_Yang_files/WenhanYang.html), Jiajun Su and [Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html) 
 
-[[Paper Link]](https://arxiv.org/abs/1711.10098) [[Project Page]](https://rui1996.github.io/raindrop/raindrop_removal.html) [[Slides]]()(TBA)[[Video]]()(TBA) (CVPR'18 Spotlight) 
+[[Paper Link]](https://arxiv.org/abs/1711.10098) [[Project Page]](https://rui1996.github.io/raindrop/raindrop_removal.html) (CVPR'18 Spotlight) 
 
 ### Abstract
 
@@ -23,9 +22,7 @@ year = {2018}
 }
 ```
 
-<img src="teaser/demo.png" >       
-
-
+<img src="teaser/demo.png" >
 
 ## Prerequisites:
 
@@ -48,12 +45,7 @@ Please refer to train.sh to see the training example.
 
 The whole dataset and testing code can be find here:
 
-https://drive.google.com/open?id=1e7R76s6vwUJxILOcAsthgDLPSnOrQ49K
-
-
-
-
-
+https://github.com/rui1996/DeRaindrop
 
 
 ## Contact
