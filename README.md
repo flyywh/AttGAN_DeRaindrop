@@ -22,8 +22,6 @@ year = {2018}
 }
 ```
 
-<img src="teaser/demo.png" >
-
 ## Prerequisites:
 
 1. Linux
